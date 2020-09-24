@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ### BackEnd Developer.
-Email. chd830@naver.com<br/>
 Notion. <https://notion.so/ecshin>
 ### SkillSet.
 - Java
