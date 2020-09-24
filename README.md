@@ -1,8 +1,18 @@
 ### Hi there 👋
 
-<!--
-**chd830/chd830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BackEnd Developer.
+Email. chd830@naver.com<br/>
+Notion. <https://notion.so/ecshin>
+### SkillSet.
+- Java
+- MySQL
+- Spring
+- Jquery
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chd830)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://notion.so/ecshin/)](https://notion.so/ecshin/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
