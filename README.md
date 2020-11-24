@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 ### BackEnd Developer.
 Notion. <https://notion.so/ecshin>
@@ -7,6 +7,8 @@ Notion. <https://notion.so/ecshin>
 - MySQL
 - Spring
 - Jquery
+- Bootstrap
+- Vuejs
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chd830)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
